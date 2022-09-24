@@ -2,6 +2,7 @@ let nouveau   = document.querySelector('#nouveau') as HTMLDivElement;
 let citation  = document.querySelector('#citation') as HTMLDivElement;
 let auteur    = document.querySelector('#auteur') as HTMLDivElement;
 
+// let last
 let dernier   = 0;
 let nombreAleatoire = 0;
 let citations = [
